@@ -9,7 +9,7 @@
 
 
 ## Lamis Chebbi - Technical Lead at Vermeg
-[Twitter](https://twitter.com/LamisChebbi) - Website (under construction) - [Github](https://github.com/lamisChebbi) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/LamisChebbi) - [Github](https://github.com/lamisChebbi)
 
 
 ## Shawn Wang - Senior Developer Advocate at AWS Amplify
@@ -33,24 +33,24 @@
 
 
 ## Tim Neutkens - Next.js Lead at Vercel
-[Twitter](https://twitter.com/timneutkens) - [Website](https://timn.tech/) - [Github](https://github.com/timneutkens) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/timneutkens) - [Website](https://timn.tech/) - [Github](https://github.com/timneutkens) - [Slides](https://drive.google.com/file/d/1SUQlg2ET49DAZT5HIvNo3qDWPHsglg6G/view)
 
 ## Henry Zhu - Steward at Babel
-[Twitter](https://twitter.com/left_pad) - [Website](https://www.henryzoo.com/) - [Github](https://github.com/hzoo) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/left_pad) - [Website](https://www.henryzoo.com/) - [Github](https://github.com/hzoo) - Slides (coming soon) - [Hope in Source, Podcats](https://hopeinsource.com)
 
 
 ## Paolo Mioni - CTO / Founder at HCE S.R.L.
-[Twitter](https://twitter.com/pmioni) - [Website]() - [Github](https://github.com/pmioni) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/pmioni) - [Website](https://www.hce.it/) - [Github](https://github.com/pmioni) - Slides (coming soon)
 
 
 ## Emanuele Bottaro - Founder and CEO at HCE S.R.L.
-[Twitter](https://twitter.com/hcemanbot) - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/hcemanbot) - [Website](https://www.hce.it/)
 
 
 ## Guillermo Rauch - CEO at Vercel
-[Twitter](https://twitter.com/rauchg) - [Website](https://rauchg.com/) - [Github](https://github.com/rauchg) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/rauchg) - [Website](https://rauchg.com/) - [Github](https://github.com/rauchg) - Slides (coming soon)
 
 
 ## Michael Hladky - Google Developer Expert, Microsfot MVP, Speaker, Trainer and Freelancer
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/Michael_Hladky) - [Website]() - [Github](https://github.com/BioPhoton) - [Talk Repository/Slides]()
 
