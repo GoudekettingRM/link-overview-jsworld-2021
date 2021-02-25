@@ -1,19 +1,19 @@
 # Speakers
 
 ## Christian Heilmann - Principal Program Manager at Microsoft
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/codepo8) - [Website](https://christianheilmann.com/) - [Github](https://github.com/codepo8) - [Slides](https://noti.st/codepo8/WM3UcI/javascript-web-tooling-now-and-tomorrow)
 
 
 ## Tim Benniks - Principal Developer Advocate at Uniform
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/timbenniks) - [Website](https://timbenniks.dev/) - [Github](https://github.com/timbenniks) - [Slides (youtube)](https://www.youtube.com/watch?v=YEzAod1sDdg)
 
 
 ## Lamis Chebbi - Technical Lead at Vermeg
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/LamisChebbi) - Website (under construction) - [Github](https://github.com/lamisChebbi) - [Talk Repository/Slides]()
 
 
 ## Shawn Wang - Senior Developer Advocate at AWS Amplify
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/swyx) - [Website](https://www.swyx.io/) - [Github](https://github.com/sw-yx/swyxdotio) - [Talk Repository/Slides]()
 
 
 ## Danail Hadjiatanasov - Software Engineer at Material-UI
@@ -21,30 +21,30 @@
 
 
 ## Daria Caraway - Software Engineer at Workday
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/dariacaraway) - [Website](https://www.dariacaraway.com/) - [Github]() - [Talk Repository/Slides]()
 
 
 ## Manfred Steyer - Speaker, Trainer, Consultant and Author with focus on Angular. Google Developer Expert (GDE) and Trusted Collaborator in the Angular team at Angular Architects
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/ManfredSteyer) - [Website](https://www.softwarearchitekt.at/) - [Github](https://github.com/manfredsteyer) - [Talk Repository/Slides]()
 
 
 ## Jason Yu - Frontend Engineer at Attest
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/ycmjason) - [Website](https://www.ycmjason.com/) - [Github](https://github.com/ycmjason) - [Talk Repository/Slides]()
 
 
 ## Tim Neutkens - Next.js Lead at Vercel
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/timneutkens) - [Website](https://timn.tech/) - [Github](https://github.com/timneutkens) - [Talk Repository/Slides]()
 
 ## Henry Zhu - Steward at Babel
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/left_pad) - [Website](https://www.henryzoo.com/) - [Github](https://github.com/hzoo) - [Talk Repository/Slides]()
 
 
 ## Paolo Mioni - CTO / Founder at HCE S.R.L.
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/pmioni) - [Website]() - [Github](https://github.com/pmioni) - [Talk Repository/Slides]()
 
 
 ## Emanuele Bottaro - Founder and CEO at HCE S.R.L.
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/hcemanbot) - [Website]() - [Github]() - [Talk Repository/Slides]()
 
 
 ## Guillermo Rauch - CEO at Vercel
