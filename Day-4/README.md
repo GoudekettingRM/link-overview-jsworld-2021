@@ -17,7 +17,7 @@
 
 
 ## Danail Hadjiatanasov - Software Engineer at Material-UI
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/danail_h) - [Website]() - [Github](https://github.com/DanailH) - [Slides](https://slides.com/danailh/composable-components-using-react-context) - [Talk Repository](https://github.com/DanailH/jsworldconference-2021)
 
 
 ## Daria Caraway - Software Engineer at Workday
