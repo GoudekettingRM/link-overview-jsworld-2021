@@ -40,7 +40,7 @@
 
 
 ## Paolo Mioni - CTO / Founder at HCE S.R.L.
-[Twitter](https://twitter.com/pmioni) - [Website](https://www.hce.it/) - [Github](https://github.com/pmioni) - Slides (coming soon)
+[Twitter](https://twitter.com/pmioni) - [Website](https://www.hce.it/) - [Github](https://github.com/pmioni) - [Slides](https://xperiment.hce.it/jsworldconference/#/)
 
 
 ## Emanuele Bottaro - Founder and CEO at HCE S.R.L.
