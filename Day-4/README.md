@@ -17,11 +17,11 @@
 
 
 ## Danail Hadjiatanasov - Software Engineer at Material-UI
-[Twitter](https://twitter.com/danail_h) - [Website]() - [Github](https://github.com/DanailH) - [Slides](https://slides.com/danailh/composable-components-using-react-context) - [Talk Repository](https://github.com/DanailH/jsworldconference-2021)
+[Twitter](https://twitter.com/danail_h) - [Website](https://www.linkedin.com/in/danail-hadjiatanasov/) - [Github](https://github.com/DanailH) - [Slides](https://slides.com/danailh/composable-components-using-react-context) - [Talk Repository](https://github.com/DanailH/jsworldconference-2021)
 
 
 ## Daria Caraway - Software Engineer at Workday
-[Twitter](https://twitter.com/dariacaraway) - [Website](https://www.dariacaraway.com/) - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/dariacaraway) - [Website](https://www.dariacaraway.com/) - [Github](https://github.com/darcar31) - [Slides](https://github.com/darcar31/slides/blob/master/2021/JSWorld/BuildingConsiderateReactComponentAPIswithTypeScript-JSWorld2021.pdf)
 
 
 ## Manfred Steyer - Speaker, Trainer, Consultant and Author with focus on Angular. Google Developer Expert (GDE) and Trusted Collaborator in the Angular team at Angular Architects
