@@ -25,7 +25,7 @@
 
 
 ## Manfred Steyer - Speaker, Trainer, Consultant and Author with focus on Angular. Google Developer Expert (GDE) and Trusted Collaborator in the Angular team at Angular Architects
-[Twitter](https://twitter.com/ManfredSteyer) - [Website](https://www.softwarearchitekt.at/) - [Github](https://github.com/manfredsteyer) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/ManfredSteyer) - [Website](https://www.angulararchitects.io/) - [Github](https://github.com/manfredsteyer) - [Talk Repository](https://github.com/manfredsteyer/module-federation-plugin-example) - [Slides](https://www.angulararchitects.io/konferenzen/federated-angular-micro-frontends-with-module-federation-2/)
 
 
 ## Jason Yu - Frontend Engineer at Attest
