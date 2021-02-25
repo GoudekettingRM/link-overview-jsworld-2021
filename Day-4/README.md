@@ -29,7 +29,7 @@
 
 
 ## Jason Yu - Frontend Engineer at Attest
-[Twitter](https://twitter.com/ycmjason) - [Website](https://www.ycmjason.com/) - [Github](https://github.com/ycmjason) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/ycmjason) - [Website](https://www.ycmjason.com/) - [Github](https://github.com/ycmjason) - [Slides](https://slides.com/jasonyu/rule-of-least-power) - [Rule of Least Power](https://dev.to/ycmjason/writing-cleaner-code-with-the-rule-of-least-power-rolp-4kkk)
 
 
 ## Tim Neutkens - Next.js Lead at Vercel
