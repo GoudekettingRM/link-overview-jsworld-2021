@@ -13,7 +13,7 @@
 
 
 ## Shawn Wang - Senior Developer Advocate at AWS Amplify
-[Twitter](https://twitter.com/swyx) - [Website](https://www.swyx.io/) - [Github](https://github.com/sw-yx/swyxdotio) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/swyx) - [Website](https://www.swyx.io/) - [Github](https://github.com/sw-yx/swyxdotio) - [Talk Repository/Slides](https://docs.google.com/presentation/d/1Dlow7gHNV6MeZ9CmZR0cbN_wfyIU6UcqBNZI4D6rObo/edit?usp=sharing)
 
 
 ## Danail Hadjiatanasov - Software Engineer at Material-UI
@@ -48,7 +48,7 @@
 
 
 ## Guillermo Rauch - CEO at Vercel
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/rauchg) - [Website](https://rauchg.com/) - [Github](https://github.com/rauchg) - [Talk Repository/Slides]()
 
 
 ## Michael Hladky - Google Developer Expert, Microsfot MVP, Speaker, Trainer and Freelancer
