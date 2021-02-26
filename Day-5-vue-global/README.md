@@ -21,7 +21,7 @@
 
 
 ## Sebastien Chopin - Co-Founder at Nuxt
-[Twitter](https://twitter.com/Atinux) - [Website](https://atinux.com/) - [Github](https://github.com/Atinux) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/Atinux) - [Website](https://atinux.com/) - [Github](https://github.com/Atinux) - [Slides](https://nuxtjs.slides.com/atinux/nuxt-3-in-action)
 
 
 ## Daniel Roe - Core Team Member at Nuxt

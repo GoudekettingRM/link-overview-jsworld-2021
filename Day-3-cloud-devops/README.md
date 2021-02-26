@@ -5,7 +5,7 @@
 
 
 ## Michiel Mulders - Developer Advocate at Humanitec
-[Twitter](https://twitter.com/michiel_mulders) - Website - Github - Talk Repository/Slides
+[Twitter](https://twitter.com/michiel_mulders) - [Website](https://www.linkedin.com/in/michiel-mulders-013771151/) - Github - Talk Repository/Slides
 
 
 ## Yan Cui - Developer Advocate at Lumigo
