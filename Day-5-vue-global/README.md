@@ -9,7 +9,7 @@
 
 
 ## Eduardo San Martin Morote - Creator at Vue-Router at Vue.js
-[Twitter](https://twitter.com/posva) - [Website](https://esm.dev/) - [Github](https://github.com/posva) - [Slides](https://2021-02-amsterdam-tips-and-tricks.netlify.app/)
+[Twitter](https://twitter.com/posva) - [Website](https://esm.dev/) - [Github](https://github.com/posva) - [Slides](https://2021-02-amsterdam-tips-and-tricks.netlify.app/) - [Talk Repository](https://github.com/posva/2021-amsterdam-demos) - [Talk Repository Live](https://2021-tips-and-tricks-demos.netlify.app/)
 
 
 ## Thorsten Lünborg - Core Team Member at Vue.js
