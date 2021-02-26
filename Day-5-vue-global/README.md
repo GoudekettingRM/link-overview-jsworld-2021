@@ -25,7 +25,7 @@
 
 
 ## Daniel Roe - Core Team Member at Nuxt
-[Twitter](https://twitter.com/danielcroe) - [Website](https://roe.dev/) - [Github](https://github.com/danielroe) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/danielcroe) - [Website](https://roe.dev/) - [Github](https://github.com/danielroe) - [Slides](https://docs.google.com/presentation/d/137PNjV93KWAb7yrftSt-oDb2pVYbAJhv7IxTfW70Tzc/edit#slide=id.p)
 
 
 ## Evan You - Creator at Vue.js
