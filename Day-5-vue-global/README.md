@@ -16,8 +16,8 @@
 [Twitter](https://twitter.com/Linus_Borg) - [Website](https://ko-fi.com/linusborg) - [Github](https://github.com/linusborg) - [Talk Repository/Slides]
 
 
-## Pooya Parsa - Head of Framework at Nuxt Passionate People
-[Twitter](https://twitter.com/_pi0_) - [Website] - [Github](https://t.co/sCMzBz43OX?amp=1) - [Talk Repository/Slides]
+## Pooya Parsa - Head of Framework at Nuxt
+[Twitter](https://twitter.com/_pi0_) - [Website] - [Github](https://t.co/sCMzBz43OX?amp=1) - [Slides](https://docs.google.com/presentation/d/1cWxCe9IZVRzM2W4OqvA4PtBr9_GLcF3n7VJEUoBLjg8/edit?usp=sharing)
 
 
 ## Sebastien Chopin - Co-Founder at Nuxt
