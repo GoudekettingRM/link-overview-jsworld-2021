@@ -13,7 +13,7 @@
 
 
 ## Thorsten Lünborg - Core Team Member at Vue.js
-[Twitter](https://twitter.com/Linus_Borg) - [Website](https://ko-fi.com/linusborg) - [Github](https://github.com/linusborg) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/Linus_Borg) - [Website](https://ko-fi.com/linusborg) - [Github](https://github.com/linusborg) - [Code & Slides](https://github.com/LinusBorg/talks)
 
 
 ## Pooya Parsa - Head of Framework at Nuxt
@@ -21,7 +21,7 @@
 
 
 ## Sebastien Chopin - Co-Founder at Nuxt
-[Twitter](https://twitter.com/Atinux) - [Website](https://atinux.com/) - [Github](https://github.com/Atinux) - [Code & Slides](https://github.com/LinusBorg/talks)
+[Twitter](https://twitter.com/Atinux) - [Website](https://atinux.com/) - [Github](https://github.com/Atinux) - [Talk Repository/Slides]
 
 
 ## Daniel Roe - Core Team Member at Nuxt
