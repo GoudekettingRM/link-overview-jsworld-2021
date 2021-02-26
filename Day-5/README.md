@@ -33,23 +33,23 @@
 
 
 ## Tracy Lee - CEO at This Dot Media
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/ladyleet) - [Website](https://labs.thisdot.co/) - [Github](https://github.com/ladyleet) - [Talk Repository/Slides]
 
 
 ## Marina Mosti - Teacher at VueMastery
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/MarinaMosti) - [Website](https://dev.to/marinamosti) - [Github](https://github.com/marina-mosti) - [Talk Repository/Slides]
 
 
 ## Ben Hong - Senior DX Engineer and Vue.js Core Team at Netlify
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/bencodezen) - [Website](https://www.bencodezen.io/) - [Github](https://github.com/bencodezen) - [Talk Repository/Slides]
 
 
 ## Rahul Kadyan - Software Engineer at Grammarly
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/znck0) - [Website](https://znck.me/) - [Github](https://github.com/znck) - [Talk Repository/Slides]
 
 
 ## Haoqun Jiang - Vue CLI at Vue.js
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/haoqunjiang) - [Website](https://sodatea.blog/) - [Github](https://github.com/sodatea) - [Talk Repository/Slides]
 
 
 ## Kia King - Core Team Member of Vue.js at Vue.js

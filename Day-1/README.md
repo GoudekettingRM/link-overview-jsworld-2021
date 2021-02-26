@@ -19,7 +19,7 @@
 [Twitter](https://twitter.com/BatsouElef) - [Website](https://linktr.ee/eleftheriabatsou) - [Github](https://github.com/EleftheriaBatsou) - [Slides](https://drive.google.com/file/d/1NCT1M_ikh7YcrSdgqYlnQqLZkcn7Ztbo/view)
 
 ## Gift Egwuenu - Front-end Developer at Passionate People
-[Twitter](https://twitter.com/lauragift_) - [Website](https://linktr.ee/lauragift_) - [Github](https://github.com/lauragift21) - [Topics](https://passionatepeople.io/tech-snacks/feb-22-2021/) - Talk Repository/Slides
+[Twitter](https://twitter.com/lauragift_) - [Website](https://linktr.ee/lauragift_) - [Github](https://github.com/lauragift21) - [Topics](https://passionatepeople.io/tech-snacks/feb-22-2021/) - Talk Repository/Slides - [Tech Snacks](https://passionatepeople.io/tech-snacks/feb-22-2021/)
 
 ## Adria Fontcuberta - Software Engineer at Holaluz
 [Twitter](https://twitter.com/afontq) - [Website](https://afontcu.dev/) - [Github](https://github.com/afontcu) - Talk Repository/Slides
