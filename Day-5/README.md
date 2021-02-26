@@ -5,7 +5,7 @@
 
 
 ## Samuel Snopko - Head of Developer Relations at Storyblok
-[Twitter](https://twitter.com/SamuelSnopko) - [Website](https://samuelsnopko.com/) - [Github](https://github.com/samuells) - [Slides](https://slides.com/samuelsnopko/future-headless-ecommerce/fullscreen) - Talk Repository (coming soon)
+[Twitter](https://twitter.com/SamuelSnopko) - [Website](https://samuelsnopko.com/) - [Github](https://github.com/samuells) - [Slides](https://slides.com/samuelsnopko/future-headless-ecommerce/fullscreen) - [Demo Repo](https://github.com/storyblok/storyblok-vuestorefront)
 
 
 ## Eduardo San Martin Morote - Creator at Vue-Router at Vue.js
