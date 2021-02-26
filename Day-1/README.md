@@ -1,4 +1,4 @@
-# Speakers
+# Speakers - DesignOps
 
 ## Ikram Babs-Lawal - Frontend Developer at Talent Talk
 [Twitter](https://twitter.com/Code_Quinn) - [Website](https://ikrambabslawal.tech/) - [Github](https://github.com/hikky08) - Talk Repository/Slides

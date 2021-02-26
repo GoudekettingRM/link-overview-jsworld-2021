@@ -1,4 +1,4 @@
-# Speakers
+# Speakers - Javascript
 
 ## Christian Heilmann - Principal Program Manager at Microsoft
 [Twitter](https://twitter.com/codepo8) - [Website](https://christianheilmann.com/) - [Github](https://github.com/codepo8) - [Slides](https://noti.st/codepo8/WM3UcI/javascript-web-tooling-now-and-tomorrow)
@@ -52,5 +52,5 @@
 
 
 ## Michael Hladky - Google Developer Expert, Microsfot MVP, Speaker, Trainer and Freelancer
-[Twitter](https://twitter.com/Michael_Hladky) - [Website]() - [Github](https://github.com/BioPhoton) - [Talk Repository/Slides]()
+[Twitter](https://twitter.com/Michael_Hladky) - [Website]() - [Github](https://github.com/BioPhoton) - Slides (coming soon)
 

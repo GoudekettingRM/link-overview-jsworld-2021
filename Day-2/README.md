@@ -1,4 +1,4 @@
-# Speakers
+# Speakers - Full-Stack
 
 ## Matteo Collina - Technical Director at Nearform
 [Twitter](https://twitter.com/matteocollina) - Website - [Github](https://github.com/mcollina) - Talk Repository/Slides
