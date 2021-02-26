@@ -4,22 +4,22 @@
 [Twitter](https://twitter.com/Code_Quinn) - [Website](https://ikrambabslawal.tech/) - [Github](https://github.com/hikky08) - Talk Repository/Slides
 
 ## Miriam Gonzalez - UX/UI Frontend Developer at Neuromobile
-[Twitter](https://twitter.com/miriamgonp) - [Website](https://miriamgonzalez.dev/) - [Github](https://github.com/miriamgonp) - Talk Repository/Slides
+[Twitter](https://twitter.com/miriamgonp) - [Website](https://miriamgonzalez.dev/) - [Github](https://github.com/miriamgonp) - [Slides](https://miriamgonzalez.dev/charlas/design-systems-101)
 
 ## Anuradha Kumari - Development Specialist at Mediaocean
-[Twitter](https://twitter.com/miracle_404) - [Website](https://anuk79.netlify.app/) - [Github](https://github.com/anuk79/) - [Accessibility Demos](https://explore-a11y.netlify.app/)
+[Twitter](https://twitter.com/miracle_404) - [Website](https://anuk79.netlify.app/) - [Github](https://github.com/anuk79/) - [Accessibility Demos](https://explore-a11y.netlify.app/) - [Slides](https://docs.google.com/presentation/d/1NHWJEJp4AwICmLUBNd2_VctVMVIaHLPooF6BtIGIY3M/edit#slide=id.p)
 
 ## Negar Jamalifard - Creator at Loudly GmbH
-[Twitter](https://twitter.com/NegarJamalifard) - [Website](https://negar.dev/) - [Github](https://github.com/negarjf) - Talk Repository/Slides
+[Twitter](https://twitter.com/NegarJamalifard) - [Website](https://negar.dev/) - [Github](https://github.com/negarjf) - Talk Repository/Slides - [Demo: Style parent or child component](https://codepen.io/negarjf/pen/MWbYoRd) - [CSS Fundamentals Demo](https://codepen.io/negarjf/pen/zYoxpgz)
 
 ## Shodipo Ayomide - Developer Relations Manager at Stack Overflow
 [Twitter](https://twitter.com/developerayo) - [Website](https://shodipoayomide.com/) - [Github](https://github.com/Developerayo) - Talk Repository/Slides
 
 ## Eleftheria Batsou - Frontend Developer & UI Designer
-[Twitter](https://twitter.com/BatsouElef) - [Website](https://linktr.ee/eleftheriabatsou) - [Github](https://github.com/EleftheriaBatsou) - Talk Repository/Slides
+[Twitter](https://twitter.com/BatsouElef) - [Website](https://linktr.ee/eleftheriabatsou) - [Github](https://github.com/EleftheriaBatsou) - [Slides](https://drive.google.com/file/d/1NCT1M_ikh7YcrSdgqYlnQqLZkcn7Ztbo/view)
 
 ## Gift Egwuenu - Front-end Developer at Passionate People
-[Twitter](https://twitter.com/lauragift_) - [Website](https://linktr.ee/lauragift_) - [Github](https://github.com/lauragift21) - Talk Repository/Slides
+[Twitter](https://twitter.com/lauragift_) - [Website](https://linktr.ee/lauragift_) - [Github](https://github.com/lauragift21) - [Topics](https://passionatepeople.io/tech-snacks/feb-22-2021/) - Talk Repository/Slides
 
 ## Adria Fontcuberta - Software Engineer at Holaluz
 [Twitter](https://twitter.com/afontq) - [Website](https://afontcu.dev/) - [Github](https://github.com/afontcu) - Talk Repository/Slides
