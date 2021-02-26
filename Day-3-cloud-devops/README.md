@@ -9,7 +9,7 @@
 
 
 ## Yan Cui - Developer Advocate at Lumigo
-[Twitter](https://twitter.com/theburningmonk) - [Website](https://theburningmonk.com/) - [Github](https://github.com/theburningmonk) - Talk Repository/Slides
+[Twitter](https://twitter.com/theburningmonk) - [Website](https://theburningmonk.com/) - [Github](https://github.com/theburningmonk) - [Slides](https://www.slideshare.net/theburningmonk/build-social-network-in-4-weeks-239089631)
 
 
 ## Ignacio Anaya - Lead Open Source Engineer at Checkly
