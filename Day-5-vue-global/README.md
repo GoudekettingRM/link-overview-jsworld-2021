@@ -1,4 +1,4 @@
-# Speakers
+# Speakers - Vue Global
 
 ## Natalia Tepluhina - Staff Engineer at GitLab
 [Twitter](https://twitter.com/N_Tepluhina) - [Website](https://www.nataliatepluhina.com/) - [Github](https://github.com/NataliaTepluhina) - [GitLab](https://gitlab.com/ntepluhina) - [Slides](https://slides.com/nataliatepluhina/api-wheel)
