@@ -1,7 +1,7 @@
 # Speakers
 
 ## Natalia Tepluhina - Staff Engineer at GitLab
-[Twitter](https://twitter.com/N_Tepluhina) - [Website](https://www.nataliatepluhina.com/) - [Github](https://github.com/NataliaTepluhina) - [GitLab](https://gitlab.com/ntepluhina) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/N_Tepluhina) - [Website](https://www.nataliatepluhina.com/) - [Github](https://github.com/NataliaTepluhina) - [GitLab](https://gitlab.com/ntepluhina) - [Slides](https://slides.com/nataliatepluhina/api-wheel)
 
 
 ## Samuel Snopko - Head of Developer Relations at Storyblok
@@ -29,7 +29,7 @@
 
 
 ## Evan You - Creator at Vue.js
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/youyuxi) - [Website](https://evanyou.me/) - [Github](https://github.com/yyx990803) - [Talk Repository/Slides]
 
 
 ## Tracy Lee - CEO at This Dot Media
