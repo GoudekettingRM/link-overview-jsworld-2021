@@ -5,7 +5,7 @@
 
 
 ## Samuel Snopko - Head of Developer Relations at Storyblok
-[Twitter](https://twitter.com/SamuelSnopko) - [Website](https://samuelsnopko.com/) - [Github](https://github.com/samuells) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/SamuelSnopko) - [Website](https://samuelsnopko.com/) - [Github](https://github.com/samuells) - [Slides](https://slides.com/samuelsnopko/future-headless-ecommerce/fullscreen) - Talk Repository (coming soon)
 
 
 ## Eduardo San Martin Morote - Creator at Vue-Router at Vue.js
@@ -53,19 +53,19 @@
 
 
 ## Kia King - Core Team Member of Vue.js at Vue.js
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/KiaKing85) - [Website](http://kia-king.com/) - [Github](https://github.com/kiaking) - [Talk Repository/Slides]
 
 
 ## Kazupon - Vue Core Team at Plaid Inc.
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/kazu_pon) - [Website]() - [Github](https://github.com/kazupon) - [Talk Repository/Slides]
 
 
-## Guillaume Chau - Vue.js Core Team at Vue.js
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+## Guillaume Chau - Vue.js Core Team Member at Vue.js
+[Twitter](https://twitter.com/Akryum) - [Website](https://guillaume-chau.info/) - [Github](https://github.com/Akryum/) - [Talk Repository/Slides]
 
 
 ## Alex Kyriakidis - Co-Founder of VueSchool, Team Member of Vue.js and Author of the Majesty of Vue.js at VueSchool
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/hootlex) - [Website](https://vueschool.io/) - [Github](https://github.com/hootlex) - [Talk Repository/Slides]
 
 
 ## Debbie O'Brien - Head of Learning and Academy at Nuxt
@@ -73,11 +73,11 @@
 
 
 ## Filip Rakowski - Co-Founder & CTO at VueStorefront and creator of StorefrontUI at VueStorefront
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/filrakowski) - [Website](https://rakowski.dev/) - [Github](https://github.com/filrak) - [Talk Repository/Slides]
 
 
 ## Maya Shavin - Senior Frontend Developer at Cloudinary
-[Twitter]() - [Website]() - [Github]() - [Talk Repository/Slides]
+[Twitter](https://twitter.com/MayaShavin) - [Website](https://mayashavin.com/) - [Github](https://github.com/mayashavin) - [Talk Repository/Slides]
 
 
 ## Gift Egwuenu - Front-end Developer at Passionate People
