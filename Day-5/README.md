@@ -17,7 +17,7 @@
 
 
 ## Pooya Parsa - Head of Framework at Nuxt Passionate People
-[Twitter](https://twitter.com/_pi0_) - [Website]() - [Github](https://t.co/sCMzBz43OX?amp=1) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/_pi0_) - [Website] - [Github](https://t.co/sCMzBz43OX?amp=1) - [Talk Repository/Slides]
 
 
 ## Sebastien Chopin - Co-Founder at Nuxt
@@ -57,7 +57,7 @@
 
 
 ## Kazupon - Vue Core Team at Plaid Inc.
-[Twitter](https://twitter.com/kazu_pon) - [Website]() - [Github](https://github.com/kazupon) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/kazu_pon) - [Website] - [Github](https://github.com/kazupon) - [Talk Repository/Slides]
 
 
 ## Guillaume Chau - Vue.js Core Team Member at Vue.js
