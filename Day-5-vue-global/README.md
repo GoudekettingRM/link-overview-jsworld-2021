@@ -41,7 +41,7 @@
 
 
 ## Ben Hong - Senior DX Engineer and Vue.js Core Team at Netlify
-[Twitter](https://twitter.com/bencodezen) - [Website](https://www.bencodezen.io/) - [Github](https://github.com/bencodezen) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/bencodezen) - [Website](https://www.bencodezen.io/) - [Github](https://github.com/bencodezen) - [Slides](https://noti.st/bencodezen/StpvdW/introduction-to-composition-api)
 
 
 ## Rahul Kadyan - Software Engineer at Grammarly

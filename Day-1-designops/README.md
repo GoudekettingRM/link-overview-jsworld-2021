@@ -22,7 +22,7 @@
 [Twitter](https://twitter.com/lauragift_) - [Website](https://linktr.ee/lauragift_) - [Github](https://github.com/lauragift21) - [Topics](https://passionatepeople.io/tech-snacks/feb-22-2021/) - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ2bPFWB-4bdht6hqdXCFBV72O89bjUM0JQjmifrG7TjnFmszG7OkgyHPzwCWFeQ7AyZshSl7mmWd-q/pub?start=false&loop=false&delayms=3000) - [Tech Snacks](https://passionatepeople.io/tech-snacks/feb-22-2021/)
 
 ## Adria Fontcuberta - Software Engineer at Holaluz
-[Twitter](https://twitter.com/afontq) - [Website](https://afontcu.dev/) - [Github](https://github.com/afontcu) - Talk Repository/Slides
+[Twitter](https://twitter.com/afontq) - [Website](https://afontcu.dev/) - [Github](https://github.com/afontcu) - [Slides](https://noti.st/afontcu/dlkNJf/the-art-of-front-end-architecture#szdZD6K)
 
 ## Naomi Meyer - Software Development Engineer at Adobe
 [Twitter](https://twitter.com/nae_ohmi) - [Website](https://naeohmi.com/) - [Github](https://github.com/naeohmi) - Talk Repository/Slides
