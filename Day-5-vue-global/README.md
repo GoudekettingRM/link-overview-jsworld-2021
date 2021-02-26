@@ -45,7 +45,7 @@
 
 
 ## Rahul Kadyan - Software Engineer at Grammarly
-[Twitter](https://twitter.com/znck0) - [Website](https://znck.me/) - [Github](https://github.com/znck) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/znck0) - [Website](https://znck.me/) - [Github](https://github.com/znck) - [Slides](https://www.icloud.com/keynote/042vCJq7wBwqfeHR6lhWNnPnw#State_of_DX_-_Feb_2021)
 
 
 ## Haoqun Jiang - Vue CLI at Vue.js
