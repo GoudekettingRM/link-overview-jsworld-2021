@@ -25,7 +25,7 @@
 
 
 ## Daniel Roe - Core Team Member at Nuxt
-[Twitter](https://twitter.com/danielcroe) - [Website](https://roe.dev/) - [Github](https://github.com/danielroe) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/danielcroe) - [Website](https://roe.dev/) - [Github](https://github.com/danielroe) - [Slides](https://docs.google.com/presentation/d/137PNjV93KWAb7yrftSt-oDb2pVYbAJhv7IxTfW70Tzc/edit#slide=id.p)
 
 
 ## Evan You - Creator at Vue.js
@@ -41,11 +41,11 @@
 
 
 ## Ben Hong - Senior DX Engineer and Vue.js Core Team at Netlify
-[Twitter](https://twitter.com/bencodezen) - [Website](https://www.bencodezen.io/) - [Github](https://github.com/bencodezen) - [Talk Repository/Slides](https://noti.st/bencodezen/StpvdW/introduction-to-composition-api)
+[Twitter](https://twitter.com/bencodezen) - [Website](https://www.bencodezen.io/) - [Github](https://github.com/bencodezen) - [Slides](https://noti.st/bencodezen/StpvdW/introduction-to-composition-api)
 
 
 ## Rahul Kadyan - Software Engineer at Grammarly
-[Twitter](https://twitter.com/znck0) - [Website](https://znck.me/) - [Github](https://github.com/znck) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/znck0) - [Website](https://znck.me/) - [Github](https://github.com/znck) - [Slides](https://www.icloud.com/keynote/042vCJq7wBwqfeHR6lhWNnPnw#State_of_DX_-_Feb_2021)
 
 
 ## Haoqun Jiang - Vue CLI at Vue.js
@@ -57,7 +57,7 @@
 
 
 ## Kazupon - Vue Core Team at Plaid Inc.
-[Twitter](https://twitter.com/kazu_pon) - [Website] - [Github](https://github.com/kazupon) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/kazu_pon) - [Github](https://github.com/kazupon) - [Slides](https://speakerdeck.com/kazupon/state-of-vue-i18n)
 
 
 ## Guillaume Chau - Vue.js Core Team Member at Vue.js
@@ -69,11 +69,11 @@
 
 
 ## Debbie O'Brien - Head of Learning and Academy at Nuxt
-[Twitter](https://twitter.com/debs_obrien) - [Website](https://debbie.codes/) - [Github](https://github.com/debs-obrien) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/debs_obrien) - [Website](https://debbie.codes/) - [Github](https://github.com/debs-obrien) - [Slides](https://noti.st/debbie/5DYjVv/nuxt-performances)
 
 
 ## Filip Rakowski - Co-Founder & CTO at VueStorefront and creator of StorefrontUI at VueStorefront
-[Twitter](https://twitter.com/filrakowski) - [Website](https://rakowski.dev/) - [Github](https://github.com/filrak) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/filrakowski) - [Website](https://rakowski.dev/) - [Github](https://github.com/filrak) - [Slides](https://slides.com/filiprakowski/vuejs-amsterdam-2021)
 
 
 ## Maya Shavin - Senior Frontend Developer at Cloudinary
