@@ -57,7 +57,7 @@
 
 
 ## Kazupon - Vue Core Team at Plaid Inc.
-[Twitter](https://twitter.com/kazu_pon) - [Website] - [Github](https://github.com/kazupon) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/kazu_pon) - [Github](https://github.com/kazupon) - [Slides](https://speakerdeck.com/kazupon/state-of-vue-i18n)
 
 
 ## Guillaume Chau - Vue.js Core Team Member at Vue.js
@@ -73,7 +73,7 @@
 
 
 ## Filip Rakowski - Co-Founder & CTO at VueStorefront and creator of StorefrontUI at VueStorefront
-[Twitter](https://twitter.com/filrakowski) - [Website](https://rakowski.dev/) - [Github](https://github.com/filrak) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/filrakowski) - [Website](https://rakowski.dev/) - [Github](https://github.com/filrak) - [Slides](https://slides.com/filiprakowski/vuejs-amsterdam-2021)
 
 
 ## Maya Shavin - Senior Frontend Developer at Cloudinary
