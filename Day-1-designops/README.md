@@ -16,7 +16,7 @@
 [Twitter](https://twitter.com/developerayo) - [Website](https://shodipoayomide.com/) - [Github](https://github.com/Developerayo) - Talk Repository/Slides
 
 ## Eleftheria Batsou - Frontend Developer & UI Designer
-[Twitter](https://twitter.com/BatsouElef) - [Website](https://linktr.ee/eleftheriabatsou) - [Github](https://github.com/EleftheriaBatsou) - [Slides](https://drive.google.com/file/d/1NCT1M_ikh7YcrSdgqYlnQqLZkcn7Ztbo/view)
+[Twitter](https://twitter.com/BatsouElef) - [Website](https://linktr.ee/eleftheriabatsou) - [Github](https://github.com/EleftheriaBatsou) - [Slides](https://drive.google.com/file/d/1NCT1M_ikh7YcrSdgqYlnQqLZkcn7Ztbo/view) - [Video](https://youtu.be/_ItJEmozpQI?t=47)
 
 ## Gift Egwuenu - Front-end Developer at Passionate People
 [Twitter](https://twitter.com/lauragift_) - [Website](https://linktr.ee/lauragift_) - [Github](https://github.com/lauragift21) - [Topics](https://passionatepeople.io/tech-snacks/feb-22-2021/) - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ2bPFWB-4bdht6hqdXCFBV72O89bjUM0JQjmifrG7TjnFmszG7OkgyHPzwCWFeQ7AyZshSl7mmWd-q/pub?start=false&loop=false&delayms=3000) - [Tech Snacks](https://passionatepeople.io/tech-snacks/feb-22-2021/)

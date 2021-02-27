@@ -1,7 +1,7 @@
 # Speakers - Full-Stack
 
 ## Matteo Collina - Technical Director at Nearform
-[Twitter](https://twitter.com/matteocollina) - Website - [Github](https://github.com/mcollina) - Talk Repository/Slides
+[Twitter](https://twitter.com/matteocollina) - Website - [Github](https://github.com/mcollina) - Talk Repository/Slides - [Video](https://youtu.be/_ItJEmozpQI?t=7018)
 
 ## Mirjam Bäuerlein - Frontend Developer at BRYTER
 [Twitter](https://twitter.com/mirjam_diala) - [Website](https://programmiri.rocks/) - [Github](https://github.com/programmiri/) - [Slides](https://speakerdeck.com/programmiri/implementing-a-test-suite-in-an-existing-frontend-application)
@@ -16,7 +16,7 @@
 [Twitter](https://twitter.com/JoshuaKGoldberg) - [Website](https://www.joshuakgoldberg.com/) - [Github](https://github.com/joshuakgoldberg) - Talk Repository/Slides
 
 ## Sean Li - CEO at Magic
-[Twitter](https://twitter.com/_seanli) - [Website](https://magic.link/) - [Github](https://github.com/seanli) - [Slides](https://docs.google.com/presentation/d/1f213h0_6Uvte2dIEnx1RPmQKMwxIEKLf-JY_1g38lQ4/edit#slide=id.p)
+[Twitter](https://twitter.com/_seanli) - [Website](https://magic.link/) - [Github](https://github.com/seanli) - [Slides](https://docs.google.com/presentation/d/1f213h0_6Uvte2dIEnx1RPmQKMwxIEKLf-JY_1g38lQ4/edit#slide=id.p) - [Video](https://youtu.be/_ItJEmozpQI?t=8727)
 
 ## Lisi Linhart - Developer Experience Engineer at Storyblok
 [Twitter](https://twitter.com/lisi_linhart) - [Website](https://t.co/Qmt3oYUq0T?amp=1) - [Github](https://github.com/lisilinhart) - [Slides](https://noti.st/lisi/xzo0SU/skys-the-limit-headless-ecommerce-with-next-js)
