@@ -1,7 +1,7 @@
 # Speakers - Cloud & DevOps
 
 ## Max Gallo - Principal Engineer at DAZN
-[Twitter](https://twitter.com/_maxgallo) - [Website](https://maxgallo.io/) - [Github](https://github.com/maxgallo) - [Talk Repository](https://github.com/maxgallo/talk-micro-frontends-migration)
+[Twitter](https://twitter.com/_maxgallo) - [Website](https://maxgallo.io/) - [Github](https://github.com/maxgallo) - [Talk Repository](https://github.com/maxgallo/talk-micro-frontends-migration) - [Video](https://youtu.be/_ItJEmozpQI?t=2386)
 
 
 ## Michiel Mulders - Developer Advocate at Humanitec

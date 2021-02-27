@@ -36,7 +36,7 @@
 [Twitter](https://twitter.com/timneutkens) - [Website](https://timn.tech/) - [Github](https://github.com/timneutkens) - [Slides](https://drive.google.com/file/d/1SUQlg2ET49DAZT5HIvNo3qDWPHsglg6G/view)
 
 ## Henry Zhu - Steward at Babel
-[Twitter](https://twitter.com/left_pad) - [Website](https://www.henryzoo.com/) - [Github](https://github.com/hzoo) - Slides (coming soon) - [Hope in Source, Podcats](https://hopeinsource.com)
+[Twitter](https://twitter.com/left_pad) - [Website](https://www.henryzoo.com/) - [Github](https://github.com/hzoo) - Slides (coming soon) - [Hope in Source, Podcats](https://hopeinsource.com) - [Video](https://youtu.be/_ItJEmozpQI?t=4337)
 
 
 ## Paolo Mioni - CTO / Founder at HCE S.R.L.
