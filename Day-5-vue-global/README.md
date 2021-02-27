@@ -69,7 +69,7 @@
 
 
 ## Debbie O'Brien - Head of Learning and Academy at Nuxt
-[Twitter](https://twitter.com/debs_obrien) - [Website](https://debbie.codes/) - [Github](https://github.com/debs-obrien) - [Talk Repository/Slides]
+[Twitter](https://twitter.com/debs_obrien) - [Website](https://debbie.codes/) - [Github](https://github.com/debs-obrien) - [Slides](https://noti.st/debbie/5DYjVv/nuxt-performances)
 
 
 ## Filip Rakowski - Co-Founder & CTO at VueStorefront and creator of StorefrontUI at VueStorefront
