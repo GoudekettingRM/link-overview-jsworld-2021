@@ -52,5 +52,4 @@
 
 
 ## Michael Hladky - Google Developer Expert, Microsfot MVP, Speaker, Trainer and Freelancer
-[Twitter](https://twitter.com/Michael_Hladky) - [Website]() - [Github](https://github.com/BioPhoton) - Slides (coming soon)
-
+[Twitter](https://twitter.com/Michael_Hladky) - [Website](https://biophoton.github.io/Michael-Hladky/) - [Github](https://github.com/BioPhoton) - [Slides](https://docs.google.com/presentation/d/1AlYs5Xm2lFF6tAUZtYy7LPKrZj4FU3aXlud-SDeap84/edit#slide=id.p)
